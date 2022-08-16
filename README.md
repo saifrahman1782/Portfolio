@@ -1,5 +1,5 @@
 # Portfolio
-- Projects that have been done by myself over my time in university
+# Projects that have been done by myself over my time in university
 
 
 - The website can be accessed after downloading by typing the following into your browser: localhost/mywebsite/homepage.php
